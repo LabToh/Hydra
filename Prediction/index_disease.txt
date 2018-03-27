@@ -1,0 +1,1382 @@
+0,angiosarcoma
+1,pterygium
+2,disease of metabolism
+3,Kartagener syndrome
+4,idiopathic pulmonary fibrosis
+5,desquamative interstitial pneumonia
+6,congenital hypothyroidism
+7,bradyopsia
+8,familial adenomatous polyposis
+9,restless legs syndrome
+10,Stevens-Johnson syndrome
+11,xeroderma pigmentosum
+12,Hailey-Hailey disease
+13,multiple endocrine neoplasia type 2A
+14,arrhythmogenic right ventricular cardiomyopathy
+15,Asperger syndrome
+16,fatal familial insomnia
+17,Andersen-Tawil syndrome
+18,mulibrey nanism
+19,Danon disease
+20,Frasier syndrome
+21,Usher syndrome
+22,familial partial lipodystrophy
+23,mucosulfatidosis
+24,infantile Refsum disease
+25,X-linked hypophosphatemic rickets
+26,hereditary mucosal leukokeratosis
+27,pachyonychia congenita
+28,Gitelman syndrome
+29,Brugada syndrome
+30,mevalonic aciduria
+31,lissencephaly
+32,periventricular nodular heterotopia
+33,Buruli ulcer disease
+34,Sertoli cell-only syndrome
+35,juvenile myelomonocytic leukemia
+36,hyperphosphatemia
+37,Wolf-Hirschhorn syndrome
+38,aspartylglucosaminuria
+39,Antley-Bixler syndrome
+40,campomelic dysplasia
+41,Farber lipogranulomatosis
+42,Muir-Torre syndrome
+43,Loeys-Dietz syndrome
+44,erythrokeratodermia variabilis
+45,yellow nail syndrome
+46,Costello syndrome
+47,Donohue syndrome
+48,Carney complex
+49,monilethrix
+50,Alstrom syndrome
+51,Netherton syndrome
+52,Weill-Marchesani syndrome
+53,Barth syndrome
+54,Liddle syndrome
+55,exanthem
+56,inflammatory bowel disease
+57,intestinal schistosomiasis
+58,Borjeson-Forssman-Lehmann syndrome
+59,Dent disease
+60,cardiomyopathy
+61,nicotine dependence
+62,myotonic dystrophy type 2
+63,chorea-acanthocytosis
+64,paraganglioma
+65,persistent Mullerian duct syndrome
+66,peroxisomal acyl-CoA oxidase deficiency
+67,Ehlers-Danlos syndrome progeroid type
+68,atrioventricular block
+69,CHARGE syndrome
+70,obstructive sleep apnea
+71,medulloblastoma
+72,gamma chain deficiency
+73,reticular dysgenesis
+74,popliteal pterygium syndrome
+75,lymphoma
+76,pharynx cancer
+77,connective tissue benign neoplasm
+78,survival motor neuron spinal muscular atrophy
+79,Kennedy's disease
+80,dentatorubral-pallidoluysian atrophy
+81,colitis
+82,ileitis
+83,atrial fibrillation
+84,Adams-Oliver syndrome
+85,basal ganglia calcification
+86,Carpenter syndrome
+87,carnitine palmitoyltransferase II deficiency
+88,xanthinuria
+89,Warburg micro syndrome
+90,Van Maldergem syndrome
+91,Van der Woude syndrome
+92,3-M syndrome
+93,stuttering
+94,MASA syndrome
+95,Simpson-Golabi-Behmel syndrome
+96,scoliosis
+97,sclerosteosis
+98,sclerocornea
+99,Robinow syndrome
+100,rippling muscle disease
+101,Dowling-Degos disease
+102,dyschromatosis symmetrica hereditaria
+103,reticulate acropigmentation of Kitamura
+104,porencephaly
+105,pontocerebellar hypoplasia type 2A
+106,pontocerebellar hypoplasia type 2B
+107,pontocerebellar hypoplasia type 2C
+108,pontocerebellar hypoplasia type 3
+109,pontocerebellar hypoplasia type 4
+110,pontocerebellar hypoplasia type 5
+111,pontocerebellar hypoplasia type 6
+112,primary pigmented nodular adrenocortical disease
+113,persistent hyperplastic primary vitreous
+114,paroxysmal nocturnal hemoglobinuria
+115,parietal foramina
+116,omodysplasia
+117,blepharophimosis-intellectual disability syndrome
+118,oculodentodigital dysplasia
+119,cold-induced sweating syndrome
+120,congenital secretory chloride diarrhea 1
+121,megalocornea
+122,Meier-Gorlin syndrome
+123,orofaciodigital syndrome I
+124,acute promyelocytic leukemia
+125,cardiac arrest
+126,inguinal hernia
+127,myelomeningocele
+128,omphalocele
+129,ectopic pregnancy
+130,CEDNIK syndrome
+131,hypoparathyroidism-retardation-dysmorphism syndrome
+132,microcephaly with or without chorioretinopathy
+133,adenine phosphoribosyltransferase deficiency
+134,Kleefstra syndrome
+135,Stormorken syndrome
+136,chylomicron retention disease
+137,multiple acyl-CoA dehydrogenase deficiency
+138,Hennekam syndrome
+139,orofaciodigital syndrome IV
+140,Joubert syndrome with orofaciodigital defect
+141,chondrodysplasia Blomstrand type
+142,chromosome 1p36 deletion syndrome
+143,Cole-Carpenter syndrome
+144,lysinuric protein intolerance
+145,granular corneal dystrophy type II
+146,Fleck corneal dystrophy
+147,Meesmann corneal dystrophy
+148,Reis-Bucklers corneal dystrophy
+149,Thiel-Behnke corneal dystrophy
+150,Schnyder corneal dystrophy
+151,Desbuquois dysplasia
+152,fibrochondrogenesis
+153,gingival fibromatosis
+154,Holt-Oram syndrome
+155,Miller-Dieker lissencephaly syndrome
+156,Kabuki syndrome
+157,EAST syndrome
+158,Mowat-Wilson syndrome
+159,Pitt-Hopkins syndrome
+160,Schimke immuno-osseous dysplasia
+161,mitochondrial complex I deficiency
+162,Barber-Say syndrome
+163,ablepharon macrostomia syndrome
+164,Kufor-Rakeb syndrome
+165,Ritscher-Schinzel syndrome
+166,Yunis-Varon syndrome
+167,WHIM syndrome
+168,hereditary motor and sensory neuropathy with agenesis of the corpus callosum
+169,megacystis-microcolon-intestinal hypoperistalsis syndrome
+170,ulnar-mammary syndrome
+171,ethylmalonic encephalopathy
+172,primary sclerosing cholangitis
+173,chondrodysplasia-pseudohermaphroditism syndrome
+174,dicarboxylic aminoaciduria
+175,arteriovenous malformations of the brain
+176,Muenke Syndrome
+177,bone disease
+178,sensorineural hearing loss
+179,multiple endocrine neoplasia type 2B
+180,multiple endocrine neoplasia type 1
+181,migraine with aura
+182,corneal disease
+183,keratoconus
+184,dry eye syndrome
+185,osteonecrosis
+186,dermatomyositis
+187,leprosy
+188,prostate cancer
+189,prostate malignant phyllodes tumor
+190,familial periodic paralysis
+191,Raynaud disease
+192,pneumoconiosis
+193,asbestosis
+194,berylliosis
+195,silicosis
+196,anthracosis
+197,lymphoblastic leukemia
+198,bacterial infectious disease
+199,chronic lymphocytic leukemia
+200,Klippel-Feil syndrome
+201,Legionnaires' disease
+202,Hirschsprung's disease
+203,imperforate anus
+204,viral pneumonia
+205,stomach cancer
+206,meningoencephalitis
+207,oculocerebrorenal syndrome
+208,metachromatic leukodystrophy
+209,Refsum disease
+210,retinitis pigmentosa
+211,Krabbe disease
+212,adrenoleukodystrophy
+213,pre-eclampsia
+214,Charcot-Marie-Tooth disease
+215,Hartnup disease
+216,glucose intolerance
+217,celiac disease
+218,rickets
+219,protein-losing enteropathy
+220,Fanconi syndrome
+221,microphthalmia
+222,interstitial nephritis
+223,Wolfram syndrome
+224,cystinosis
+225,Alzheimer's disease
+226,open-angle glaucoma
+227,mastitis
+228,primary open angle glaucoma
+229,renal hypertension
+230,portal hypertension
+231,hypertension
+232,thrombotic thrombocytopenic purpura
+233,primary polycythemia
+234,methemoglobinemia
+235,gastric ulcer
+236,malignant hypertension
+237,essential hypertension
+238,age related macular degeneration
+239,Kuhnt-Junius degeneration
+240,tethered spinal cord syndrome
+241,hypospadias
+242,microcephaly
+243,hydrocephalus
+244,amnestic disorder
+245,Wernicke-Korsakoff syndrome
+246,sickle cell anemia
+247,obsessive-compulsive disorder
+248,impulse control disorder
+249,antisocial personality disorder
+250,intracranial aneurysm
+251,nephritis
+252,lipoid nephrosis
+253,membranous glomerulonephritis
+254,Alport syndrome
+255,alpha thalassemia
+256,lens disease
+257,ovarian disease
+258,urinary bladder cancer
+259,esophageal carcinoma
+260,asphyxia neonatorum
+261,fundus albipunctatus
+262,hydronephrosis
+263,Gilles de la Tourette syndrome
+264,Henoch-Schoenlein purpura
+265,cholecystolithiasis
+266,hypohidrosis
+267,syndactyly
+268,DiGeorge syndrome
+269,hypoparathyroidism
+270,primary hyperparathyroidism
+271,hydrophthalmos
+272,neonatal anemia
+273,disseminated intravascular coagulation
+274,microcytic anemia
+275,keratomalacia
+276,pituitary apoplexy
+277,sarcoidosis
+278,bladder calculus
+279,megacolon
+280,corneal neovascularization
+281,cryptorchidism
+282,adult respiratory distress syndrome
+283,pulmonary edema
+284,heart disease
+285,pyelonephritis
+286,sciatic neuropathy
+287,osteoporosis
+288,polydactyly
+289,cardiac tamponade
+290,mitral valve insufficiency
+291,listeriosis
+292,Riley-Day syndrome
+293,polycystic ovary syndrome
+294,hyperandrogenism
+295,penile neoplasm
+296,thyroid hormone resistance syndrome
+297,cicatricial pemphigoid
+298,blue color blindness
+299,familial hyperlipidemia
+300,selective IgA deficiency disease
+301,hyperlipoproteinemia type V
+302,lipoatrophic diabetes
+303,diabetic angiopathy
+304,gestational diabetes
+305,neonatal diabetes mellitus
+306,oculopharyngeal muscular dystrophy
+307,hyperlipoproteinemia type IV
+308,distal muscular dystrophy
+309,glycogen storage disease VII
+310,myotonic dystrophy type 1
+311,Duchenne muscular dystrophy
+312,limb-girdle muscular dystrophy
+313,Cornelia de Lange syndrome
+314,Emery-Dreifuss muscular dystrophy
+315,facioscapulohumeral muscular dystrophy
+316,choledocholithiasis
+317,bronchial disease
+318,pericardial effusion
+319,hepatorenal syndrome
+320,myopia
+321,clubfoot
+322,nephrotic syndrome
+323,coronary artery vasospasm
+324,coronary thrombosis
+325,Pick's disease
+326,ureteral benign neoplasm
+327,vaginal cancer
+328,gastroparesis
+329,peripheral nervous system neoplasm
+330,head and neck cancer
+331,Creutzfeldt-Jakob disease
+332,esophagitis
+333,coloboma of optic nerve
+334,morbid obesity
+335,Prader-Willi syndrome
+336,hypertrophic cardiomyopathy
+337,osteopoikilosis
+338,female reproductive organ cancer
+339,anterior ischemic optic neuropathy
+340,Conn's syndrome
+341,allergic hypersensitivity disease
+342,Rett syndrome
+343,optic neuritis
+344,pulmonary alveolar microlithiasis
+345,pulmonary alveolar proteinosis
+346,Wegener's granulomatosis
+347,factor VIII deficiency
+348,neurogenic bladder
+349,aseptic meningitis
+350,carpal tunnel syndrome
+351,goiter
+352,common variable immunodeficiency
+353,dengue disease
+354,dengue hemorrhagic fever
+355,Lewy body dementia
+356,cartilage disease
+357,primary biliary cirrhosis
+358,beta thalassemia
+359,Cushing's syndrome
+360,hemophilia B
+361,neutropenia
+362,coloboma
+363,aniridia
+364,anisometropia
+365,paranoid schizophrenia
+366,Vogt-Koyanagi-Harada disease
+367,Bloch-Sulzberger syndrome
+368,vitiligo
+369,Dubin-Johnson syndrome
+370,male infertility
+371,osteogenesis imperfecta
+372,Graves' disease
+373,malaria
+374,juvenile spinal muscular atrophy
+375,spinal muscular atrophy
+376,complex partial epilepsy
+377,nephrogenic diabetes insipidus
+378,neurohypophyseal diabetes insipidus
+379,leukemia
+380,aplastic anemia
+381,pancytopenia
+382,secondary hyperparathyroidism
+383,blood coagulation disease
+384,trichuriasis
+385,von Willebrand's disease
+386,hemolytic-uremic syndrome
+387,acute kidney tubular necrosis
+388,Duane retraction syndrome
+389,chronic progressive external ophthalmoplegia
+390,Cri-Du-Chat syndrome
+391,velocardiofacial syndrome
+392,hypercalcemia
+393,nephrocalcinosis
+394,acoustic neuroma
+395,gynecomastia
+396,leiomyoma
+397,hereditary hemorrhagic telangiectasia
+398,hyperprolactinemia
+399,ataxia telangiectasia
+400,Friedreich ataxia
+401,Ellis-Van Creveld syndrome
+402,respiratory syncytial virus infectious disease
+403,migraine without aura
+404,mucopolysaccharidosis II
+405,mucopolysaccharidosis VI
+406,mucopolysaccharidosis III
+407,mucopolysaccharidosis I
+408,Sly syndrome
+409,mucopolysaccharidosis IV
+410,quadriplegia
+411,Guillain-Barre syndrome
+412,autistic disorder
+413,Huntington's disease
+414,cardiovascular system disease
+415,neurodegenerative disease
+416,Sjogren's syndrome
+417,dilated cardiomyopathy
+418,endomyocardial fibrosis
+419,Kearns-Sayre syndrome
+420,alcoholic cardiomyopathy
+421,acrocephalosyndactylia
+422,hereditary spherocytosis
+423,leukostasis
+424,agranulocytosis
+425,conduct disorder
+426,carotid stenosis
+427,retinopathy of prematurity
+428,persistent fetal circulation syndrome
+429,Sneddon syndrome
+430,Moyamoya disease
+431,intracranial vasospasm
+432,focal segmental glomerulosclerosis
+433,Werdnig-Hoffmann disease
+434,uveitis
+435,gout
+436,brain cancer
+437,endemic goiter
+438,uterine fibroid
+439,Behcet's disease
+440,mesenteric vascular occlusion
+441,typhoid fever
+442,porphyria
+443,hereditary coproporphyria
+444,erythropoietic protoporphyria
+445,cutaneous porphyria
+446,exocrine pancreatic insufficiency
+447,hyperinsulinemic hypoglycemia
+448,Ehlers-Danlos syndrome
+449,alpha 1-antitrypsin deficiency
+450,fibrodysplasia ossificans progressiva
+451,temporal arteritis
+452,Kawasaki disease
+453,congenital dyserythropoietic anemia
+454,megaloblastic anemia
+455,Diamond-Blackfan anemia
+456,hepatic encephalopathy
+457,congenital hypoplastic anemia
+458,thanatophoric dysplasia
+459,Proteus syndrome
+460,Mobius syndrome
+461,tuberous sclerosis
+462,osteopetrosis
+463,hyperparathyroidism
+464,secondary Parkinson disease
+465,angle-closure glaucoma
+466,cholestasis
+467,obstructive jaundice
+468,biliary atresia
+469,favism
+470,Fanconi's anemia
+471,exfoliation syndrome
+472,anodontia
+473,opisthorchiasis
+474,Addison's disease
+475,epidermodysplasia verruciformis
+476,endometrial cancer
+477,familial combined hyperlipidemia
+478,familial hypercholesterolemia
+479,patent ductus arteriosus
+480,abetalipoproteinemia
+481,hypolipoproteinemia
+482,Tangier disease
+483,sick sinus syndrome
+484,polyneuropathy
+485,hypobetalipoproteinemia
+486,red-green color blindness
+487,Norum disease
+488,red color blindness
+489,achromatopsia
+490,eosinophilic esophagitis
+491,facial paralysis
+492,amenorrhea
+493,cadasil
+494,bladder neck obstruction
+495,interstitial cystitis
+496,peptic esophagitis
+497,cleidocranial dysplasia
+498,lacrimal apparatus disease
+499,thoracic aortic aneurysm
+500,alcoholic liver cirrhosis
+501,autoimmune polyendocrine syndrome
+502,Plasmodium falciparum malaria
+503,glucocorticoid-remediable aldosteronism
+504,familial lipoprotein lipase deficiency
+505,gyrate atrophy
+506,von Hippel-Lindau disease
+507,Bruton-type agammaglobulinemia
+508,hypophosphatasia
+509,dihydropyrimidine dehydrogenase deficiency
+510,renal tubular acidosis
+511,metabolic syndrome X
+512,azoospermia
+513,oligospermia
+514,Down syndrome
+515,fragile X syndrome
+516,oral candidiasis
+517,benign neonatal seizures
+518,sclerosing cholangitis
+519,primary hypertrophic osteoarthropathy
+520,Ebstein anomaly
+521,LEOPARD syndrome
+522,Marfan syndrome
+523,Parkinson's disease
+524,systemic primary carnitine deficiency disease
+525,Machado-Joseph disease
+526,autosomal dominant cerebellar ataxia
+527,Legg-Calve-Perthes disease
+528,Alpers syndrome
+529,gonadal dysgenesis
+530,46 XY gonadal dysgenesis
+531,46 XX gonadal dysgenesis
+532,hyperkalemic periodic paralysis
+533,hypokalemic periodic paralysis
+534,Wolman disease
+535,lipoid proteinosis
+536,Fabry disease
+537,fucosidosis
+538,Sjogren-Larsson syndrome
+539,cholesterol ester storage disease
+540,neuronal ceroid lipofuscinosis
+541,Niemann-Pick disease
+542,WAGR syndrome
+543,primary pulmonary hypertension
+544,hypothyroidism
+545,cholesterol embolism
+546,prostatitis
+547,acrodysostosis
+548,VACTERL association
+549,Silver-Russell syndrome
+550,Axenfeld-Rieger syndrome
+551,diastrophic dysplasia
+552,Smith-Lemli-Opitz syndrome
+553,Clouston syndrome
+554,Johanson-Blizzard syndrome
+555,galactokinase deficiency
+556,thrombocytopenia-absent radius syndrome
+557,propionic acidemia
+558,branchiootorenal syndrome
+559,Pfeiffer syndrome
+560,FG syndrome
+561,type I Ehlers-Danlos syndrome
+562,hereditary angioedema
+563,craniofrontonasal syndrome
+564,aggressive periodontitis
+565,Sotos syndrome
+566,isovaleric acidemia
+567,argininosuccinic aciduria
+568,type III Ehlers-Danlos syndrome
+569,Greig cephalopolysyndactyly syndrome
+570,calcaneonavicular coalition
+571,Saethre-Chotzen syndrome
+572,brittle cornea syndrome
+573,benign familial neonatal epilepsy
+574,Leber congenital amaurosis
+575,hypohidrotic ectodermal dysplasia
+576,Dubowitz syndrome
+577,cystic fibrosis
+578,echinococcosis
+579,disease of mental health
+580,candidiasis
+581,cecal benign neoplasm
+582,colon carcinoma
+583,nodular nonsuppurative panniculitis
+584,pleural disease
+585,parathyroid carcinoma
+586,hypersensitivity reaction type III disease
+587,angioedema
+588,thrombocytopenia
+589,renovascular hypertension
+590,mental depression
+591,keratosis
+592,breast cancer
+593,male breast cancer
+594,breast fibroadenoma
+595,benign breast phyllodes tumor
+596,ventricular septal defect
+597,supratentorial cancer
+598,cystitis
+599,heart septal defect
+600,congenital heart disease
+601,glaucoma
+602,neuroendocrine tumor
+603,congenital ichthyosiform erythroderma
+604,X-linked ichthyosis
+605,ichthyosis vulgaris
+606,neuroectodermal tumor
+607,duodenal ulcer
+608,retinal vein occlusion
+609,squamous cell carcinoma
+610,vascular disease
+611,thyroid cancer
+612,pituitary cancer
+613,malignant mesothelioma
+614,pancreatic cancer
+615,calcinosis
+616,status epilepticus
+617,childhood absence epilepsy
+618,epilepsy
+619,idiopathic generalized epilepsy
+620,diabetic ketoacidosis
+621,Menkes disease
+622,bone cancer
+623,intrahepatic cholestasis
+624,cherubism
+625,McCune Albright syndrome
+626,sexual dysfunction
+627,atrial heart septal defect
+628,hepatitis C
+629,optic nerve disease
+630,melanoma
+631,Lesch-Nyhan syndrome
+632,sex cord-gonadal stromal tumor
+633,hyperuricemia
+634,sex differentiation disease
+635,hypogonadism
+636,Coffin-Siris syndrome
+637,Gaucher's disease
+638,Williams-Beuren syndrome
+639,supravalvular aortic stenosis
+640,Laurence-Moon syndrome
+641,Angelman syndrome
+642,Rubinstein-Taybi syndrome
+643,dysostosis
+644,Bardet-Biedl syndrome
+645,cholecystitis
+646,leiomyosarcoma
+647,cerebral palsy
+648,rectal neoplasm
+649,hyperinsulinism
+650,anxiety disorder
+651,hepatitis B
+652,autoimmune hepatitis
+653,hyperostosis
+654,post-traumatic stress disorder
+655,chronic mucocutaneous candidiasis
+656,hereditary multiple exostoses
+657,intestinal perforation
+658,constipation
+659,myotonia congenita
+660,focal dermal hypoplasia
+661,nephroblastoma
+662,dental caries
+663,amelogenesis imperfecta
+664,factor XIII deficiency
+665,hemorrhagic disease
+666,inherited blood coagulation disease
+667,factor VII deficiency
+668,factor V deficiency
+669,Bernard-Soulier syndrome
+670,blood platelet disease
+671,Glanzmann's thrombasthenia
+672,factor X deficiency
+673,hemorrhagic thrombocythemia
+674,thrombocytosis
+675,factor XI deficiency
+676,factor XII deficiency
+677,focal epilepsy
+678,prothrombin deficiency
+679,congenital afibrinogenemia
+680,hepatitis
+681,transient cerebral ischemia
+682,osteochondrodysplasia
+683,ankylosis
+684,vulvovaginal candidiasis
+685,hidradenitis suppurativa
+686,stereotypic movement disorder
+687,motor neuron disease
+688,brain ischemia
+689,obstructive lung disease
+690,gastroenteritis
+691,mandibular cancer
+692,Crouzon syndrome
+693,colon adenocarcinoma
+694,craniosynostosis
+695,arteriosclerotic cardiovascular disease
+696,arteriosclerosis
+697,colonic benign neoplasm
+698,iron metabolism disease
+699,hemochromatosis
+700,anemia
+701,West Nile fever
+702,neuroaxonal dystrophy
+703,hereditary elliptocytosis
+704,multiple sclerosis
+705,relapsing-remitting multiple sclerosis
+706,kernicterus
+707,neonatal jaundice
+708,Wernicke encephalopathy
+709,ovarian cancer
+710,acromegaly
+711,thrombophilia
+712,hereditary spastic paraplegia
+713,motor peripheral neuropathy
+714,infantile epileptic encephalopathy
+715,Takayasu's arteritis
+716,nevoid basal cell carcinoma syndrome
+717,basal cell carcinoma
+718,testicular disease
+719,nephrosis
+720,splenic disease
+721,Landau-Kleffner syndrome
+722,hemangioma
+723,morphine dependence
+724,macular corneal dystrophy
+725,rhizomelic chondrodysplasia punctata
+726,acatalasia
+727,agammaglobulinemia
+728,familial nephrotic syndrome
+729,laryngeal benign neoplasm
+730,chondroma
+731,papilloma
+732,choroid plexus papilloma
+733,kidney cancer
+734,hemangiopericytoma
+735,benign mesothelioma
+736,chondroblastoma
+737,sweat gland neoplasm
+738,transitional cell carcinoma
+739,Leydig cell tumor
+740,synovitis
+741,sick building syndrome
+742,Bloom syndrome
+743,acrodermatitis
+744,dermatitis
+745,dyskeratosis congenita
+746,epidermolysis bullosa
+747,keratosis follicularis
+748,Hajdu-Cheney syndrome
+749,pseudoxanthoma elasticum
+750,Gilbert syndrome
+751,bilirubin metabolic disorder
+752,auditory system disease
+753,glycogen storage disease V
+754,glycogen storage disease
+755,glycogen storage disease III
+756,glycogen storage disease I
+757,glycogen storage disease IV
+758,glycogen storage disease VIII
+759,glycogen storage disease II
+760,glycogen storage disease VI
+761,tic disorder
+762,irritant dermatitis
+763,contact dermatitis
+764,Dandy-Walker syndrome
+765,cerebellar disease
+766,bronchiolitis obliterans
+767,endocrine system disease
+768,asthma
+769,Jervell-Lange Nielsen syndrome
+770,long QT syndrome
+771,hairy cell leukemia
+772,hyperthyroxinemia
+773,hemoglobin C disease
+774,hemoglobinopathy
+775,congenital nonspherocytic hemolytic anemia
+776,glucosephosphate dehydrogenase deficiency
+777,endometrial carcinoma
+778,laryngeal squamous cell carcinoma
+779,endometriosis
+780,cervix carcinoma
+781,Treacher Collins syndrome
+782,membranoproliferative glomerulonephritis
+783,glomerulonephritis
+784,Klippel-Trenaunay syndrome
+785,severe acute respiratory syndrome
+786,motion sickness
+787,pulmonary tuberculosis
+788,photosensitive trichothiodystrophy
+789,Cockayne syndrome
+790,primary hyperoxaluria
+791,carbohydrate metabolic disorder
+792,anuria
+793,IgA glomerulonephritis
+794,familial Mediterranean fever
+795,adenocarcinoma
+796,testicular cancer
+797,granulosa cell tumor
+798,breast ductal carcinoma
+799,invasive ductal carcinoma
+800,Li-Fraumeni syndrome
+801,substance-related disorder
+802,allergic contact dermatitis
+803,food allergy
+804,Balkan nephropathy
+805,glioblastoma multiforme
+806,astrocytoma
+807,malignant glioma
+808,gliosarcoma
+809,giant cell glioblastoma
+810,grade III astrocytoma
+811,early myoclonic encephalopathy
+812,interstitial lung disease
+813,chronic obstructive pulmonary disease
+814,germ cell and embryonal cancer
+815,MERRF syndrome
+816,gastrointestinal system cancer
+817,gallbladder cancer
+818,porphyria cutanea tarda
+819,acute porphyria
+820,facial dermatosis
+821,cutis laxa
+822,hyperlipoproteinemia type III
+823,lipid metabolism disorder
+824,lipomatosis
+825,skin benign neoplasm
+826,squamous cell neoplasm
+827,oligodendroglioma
+828,spinal cord disease
+829,nemaline myopathy
+830,neurilemmoma
+831,neurilemmomatosis
+832,junctional epidermolysis bullosa
+833,Pelizaeus-Merzbacher disease
+834,demyelinating disease
+835,aspiration pneumonitis
+836,embryonal rhabdomyosarcoma
+837,rhabdomyosarcoma
+838,ischemia
+839,Job's syndrome
+840,phagocyte bactericidal dysfunction
+841,piebaldism
+842,chronic granulomatous disease
+843,thymoma
+844,chordoma
+845,central nervous system disease
+846,atopic dermatitis
+847,bipolar disorder
+848,lipoma
+849,amyotrophic lateral sclerosis
+850,Tay-Sachs disease
+851,gangliosidosis GM1
+852,Sandhoff disease
+853,mood disorder
+854,temporal lobe epilepsy
+855,benign epilepsy with centrotemporal spikes
+856,frontal lobe epilepsy
+857,glycoproteinosis
+858,xanthomatosis
+859,osteosarcoma
+860,fibrosarcoma
+861,coronary aneurysm
+862,Ewing sarcoma
+863,chondrosarcoma
+864,liposarcoma
+865,periodontal disease
+866,Papillon-Lefevre disease
+867,palmoplantar keratosis
+868,coronary artery disease
+869,inappropriate ADH syndrome
+870,histiocytosis
+871,carotid artery disease
+872,peripheral vascular disease
+873,carotid artery thrombosis
+874,alpha-mannosidosis
+875,vestibular disease
+876,inclusion body myositis
+877,mammary Paget's disease
+878,uterine disease
+879,skin carcinoma
+880,brain infarction
+881,invasive lobular carcinoma
+882,breast adenocarcinoma
+883,breast disease
+884,cellulitis
+885,systemic mastocytosis
+886,Noonan syndrome
+887,Turner syndrome
+888,mastocytosis
+889,neurofibrosarcoma
+890,lateral medullary syndrome
+891,middle cerebral artery infarction
+892,cerebral infarction
+893,central core myopathy
+894,Lafora disease
+895,Unverricht-Lundborg syndrome
+896,meningioma
+897,liver cancer
+898,intracranial sinus thrombosis
+899,sagittal sinus thrombosis
+900,pancreatic ductal carcinoma
+901,gestational trophoblastic neoplasm
+902,toxic encephalopathy
+903,retinitis
+904,Canavan disease
+905,Kallmann syndrome
+906,central nervous system cancer
+907,aortic aneurysm
+908,uterine cancer
+909,congenital myasthenic syndrome
+910,pyruvate decarboxylase deficiency
+911,bladder disease
+912,lactic acidosis
+913,pyruvate carboxylase deficiency disease
+914,Leigh disease
+915,sialuria
+916,rhabdoid cancer
+917,pulmonary plasma cell granuloma
+918,lung benign neoplasm
+919,MELAS syndrome
+920,brachial plexus neuritis
+921,skin disease
+922,ovary adenocarcinoma
+923,esophagus squamous cell carcinoma
+924,antithrombin III deficiency
+925,protein C deficiency
+926,cytochrome-c oxidase deficiency disease
+927,Denys-Drash syndrome
+928,pulmonary fibrosis
+929,anovulation
+930,Coffin-Lowry syndrome
+931,Crigler-Najjar syndrome
+932,porokeratosis
+933,arthropathy
+934,congenital diaphragmatic hernia
+935,Wolff-Parkinson-White syndrome
+936,craniopharyngioma
+937,Peutz-Jeghers syndrome
+938,nodular medulloblastoma
+939,Lynch syndrome
+940,acute intermittent porphyria
+941,insulinoma
+942,lung carcinoma
+943,lung squamous cell carcinoma
+944,non-small cell lung carcinoma
+945,lung adenocarcinoma
+946,progeria
+947,pituitary-dependent Cushing's disease
+948,adrenocortical carcinoma
+949,adrenal cortex disease
+950,adrenal gland cancer
+951,follicular thyroid carcinoma
+952,thyroid carcinoma
+953,papillary thyroid carcinoma
+954,restrictive cardiomyopathy
+955,thyroid medullary carcinoma
+956,pantothenate kinase-associated neurodegeneration
+957,ovarian carcinoma
+958,linitis plastica
+959,mouth disease
+960,alveolar rhabdomyosarcoma
+961,heart valve disease
+962,liver disease
+963,agnosia
+964,nail disease
+965,bile duct disease
+966,dentinogenesis imperfecta
+967,systemic scleroderma
+968,pseudopseudohypoparathyroidism
+969,pseudohypoparathyroidism
+970,intracranial thrombosis
+971,hyperglycemia
+972,hypertrichosis
+973,brain stem cancer
+974,hair disease
+975,congenital structural myopathy
+976,endometrial stromal sarcoma
+977,myopathy
+978,clear cell sarcoma
+979,carcinosarcoma
+980,alveolar soft part sarcoma
+981,coronary restenosis
+982,coronary stenosis
+983,Gerstmann-Straussler-Scheinker syndrome
+984,conjunctival disease
+985,Alexander disease
+986,melorheostosis
+987,osteosclerosis
+988,Caffey disease
+989,Weissenbacher-ZweymÃ¼ller syndrome
+990,scimitar syndrome
+991,bone giant cell tumor
+992,smooth muscle tumor
+993,variegate porphyria
+994,amelanotic melanoma
+995,cervical cancer
+996,apparent mineralocorticoid excess syndrome
+997,myasthenia gravis
+998,Schnitzler syndrome
+999,egg allergy
+1000,peanut allergy
+1001,pustulosis of palm and sole
+1002,neuromuscular disease
+1003,occupational dermatitis
+1004,fibrous histiocytoma
+1005,sea-blue histiocyte syndrome
+1006,dyslexia
+1007,macular retinal edema
+1008,Bartter disease
+1009,renal cell carcinoma
+1010,hyperaldosteronism
+1011,papillary renal cell carcinoma
+1012,renal clear cell carcinoma
+1013,clear cell adenocarcinoma
+1014,chromophobe renal cell carcinoma
+1015,pseudohypoaldosteronism
+1016,achondroplasia
+1017,rhinitis
+1018,persian gulf syndrome
+1019,avian influenza
+1020,myotonic disease
+1021,orofaciodigital syndrome
+1022,Hallermann-Streiff syndrome
+1023,hypotrichosis
+1024,retrograde amnesia
+1025,mesenchymal chondrosarcoma
+1026,anus neoplasm
+1027,large cell carcinoma
+1028,familial meningioma
+1029,epidermolytic hyperkeratosis
+1030,bile duct cancer
+1031,biliary tract cancer
+1032,intestinal benign neoplasm
+1033,maxillary neoplasm
+1034,holoprosencephaly
+1035,Ollier disease
+1036,hydranencephaly
+1037,epidermolysis bullosa simplex
+1038,multiple chemical sensitivity
+1039,androgen insensitivity syndrome
+1040,uremia
+1041,keratitis
+1042,prostate disease
+1043,brain edema
+1044,somatoform disorder
+1045,multiple system atrophy
+1046,pleuropulmonary blastoma
+1047,congenital mesoblastic nephroma
+1048,angiokeratoma
+1049,Tay-Sachs disease AB variant
+1050,SM-AHNMD
+1051,movement disease
+1052,cerebrotendinous xanthomatosis
+1053,benign ependymoma
+1054,pilocytic astrocytoma
+1055,salivary gland adenoid cystic carcinoma
+1056,juvenile myoclonic epilepsy
+1057,bile duct carcinoma
+1058,pancreatic carcinoma
+1059,esophagus adenocarcinoma
+1060,cholangiocarcinoma
+1061,poliomyelitis
+1062,epidermolysis bullosa dystrophica
+1063,bone marrow cancer
+1064,bone marrow disease
+1065,myelofibrosis
+1066,myelodysplastic myeloproliferative cancer
+1067,lymphedema
+1068,alcoholic pancreatitis
+1069,pancreatitis
+1070,essential tremor
+1071,Camurati-Engelmann disease
+1072,trichorhinophalangeal syndrome type II
+1073,thyroid gland disease
+1074,esophageal cancer
+1075,phencyclidine abuse
+1076,liver cirrhosis
+1077,thoracic cancer
+1078,plexiform neurofibroma
+1079,aortic disease
+1080,fructose-1
+1081,infertility
+1082,hepatoerythropoietic porphyria
+1083,hemangioblastoma
+1084,human immunodeficiency virus infectious disease
+1085,blepharospasm
+1086,intestinal disease
+1087,eyelid disease
+1088,Roberts syndrome
+1089,retinal detachment
+1090,gingival hypertrophy
+1091,cyclic hematopoiesis
+1092,myxoid liposarcoma
+1093,pilomatrixoma
+1094,hemoglobin D disease
+1095,hemoglobin E disease
+1096,oxyphilic adenoma
+1097,ophthalmoplegia
+1098,prolactinoma
+1099,Paget's disease of bone
+1100,lung small cell carcinoma
+1101,lung oat cell carcinoma
+1102,ovarian hyperstimulation syndrome
+1103,premature ovarian failure
+1104,dystonia
+1105,scrapie
+1106,pulmonary venoocclusive disease
+1107,cochlear disease
+1108,synovial sarcoma
+1109,stomach carcinoma
+1110,pneumonia
+1111,head and neck squamous cell carcinoma
+1112,testicular malignant germ cell cancer
+1113,testicular germ cell cancer
+1114,mediastinal cancer
+1115,kidney disease
+1116,Beckwith-Wiedemann syndrome
+1117,VIPoma
+1118,gastrinoma
+1119,acute T cell leukemia
+1120,eye disease
+1121,choroid plexus carcinoma
+1122,retinal disease
+1123,hereditary breast ovarian cancer
+1124,Werner syndrome
+1125,atypical lipomatous tumor
+1126,aortic valve insufficiency
+1127,optic atrophy
+1128,peripheral nervous system disease
+1129,sebaceous gland neoplasm
+1130,proteinuria
+1131,oral submucous fibrosis
+1132,subvalvular aortic stenosis
+1133,purine nucleoside phosphorylase deficiency
+1134,hemolytic anemia
+1135,spermatocytoma
+1136,testis seminoma
+1137,myocardial infarction
+1138,phobic disorder
+1139,panic disorder
+1140,congestive heart failure
+1141,uveal melanoma
+1142,esophageal disease
+1143,leukocyte-adhesion deficiency syndrome
+1144,primary immunodeficiency disease
+1145,bronchitis
+1146,lymphopenia
+1147,leukopenia
+1148,aortic valve disease
+1149,renal oncocytoma
+1150,growth hormone secreting pituitary adenoma
+1151,inflammatory breast carcinoma
+1152,severe combined immunodeficiency
+1153,combined T cell and B cell immunodeficiency
+1154,myositis
+1155,acquired immunodeficiency syndrome
+1156,migraine
+1157,hypersplenism
+1158,double outlet right ventricle
+1159,tetralogy of Fallot
+1160,pulmonary hypertension
+1161,Cowden disease
+1162,prion disease
+1163,extraskeletal myxoid chondrosarcoma
+1164,seborrheic keratosis
+1165,connective tissue disease
+1166,inherited metabolic disorder
+1167,adenoma
+1168,leukocyte adhesion deficiency
+1169,X-linked hyper IgM syndrome
+1170,tooth and nail syndrome
+1171,myositis ossificans
+1172,Aarskog-Scott syndrome
+1173,autoimmune lymphoproliferative syndrome
+1174,cerebrovascular disease
+1175,fibrillary astrocytoma
+1176,cleft palate
+1177,progressive supranuclear palsy
+1178,basal ganglia disease
+1179,tauopathy
+1180,progressive bulbar palsy
+1181,compartment syndrome
+1182,familial melanoma
+1183,hepatoblastoma
+1184,mitochondrial myopathy
+1185,mitochondrial metabolism disease
+1186,ACTH-secreting pituitary adenoma
+1187,gemistocytic astrocytoma
+1188,protoplasmic astrocytoma
+1189,Leber hereditary optic neuropathy
+1190,B-cell lymphoma
+1191,ankylosing spondylitis
+1192,rheumatoid arthritis
+1193,T-cell leukemia
+1194,autoimmune hemolytic anemia
+1195,autoimmune thyroiditis
+1196,urinary system benign neoplasm
+1197,hematopoietic system disease
+1198,Nijmegen breakage syndrome
+1199,peptic ulcer disease
+1200,situs inversus
+1201,stomach disease
+1202,parathyroid adenoma
+1203,muscular atrophy
+1204,retinoblastoma
+1205,neuroblastoma
+1206,abdominal aortic aneurysm
+1207,gastrointestinal system disease
+1208,epilepsy with generalized tonic-clonic seizures
+1209,Coats disease
+1210,placenta disease
+1211,chronic kidney disease
+1212,mixed oligodendroglioma-astrocytoma
+1213,varicose veins
+1214,thyrotoxicosis
+1215,hyperthyroidism
+1216,lipodystrophy
+1217,septic arthritis
+1218,thyroid Hurthle cell carcinoma
+1219,myocarditis
+1220,periapical periodontitis
+1221,periodontitis
+1222,appendicitis
+1223,complement component 3 deficiency
+1224,osteochondritis dissecans
+1225,extrinsic allergic alveolitis
+1226,polycythemia
+1227,intestinal obstruction
+1228,ariboflavinosis
+1229,corneal ulcer
+1230,retinoschisis
+1231,retinal degeneration
+1232,influenza
+1233,localized scleroderma
+1234,arthritis
+1235,polyhydramnios
+1236,hereditary night blindness
+1237,night blindness
+1238,lung disease
+1239,fundus dystrophy
+1240,bullous pemphigoid
+1241,gastroesophageal reflux disease
+1242,Sezary's disease
+1243,malignant hyperthermia
+1244,chronic myeloid leukemia
+1245,biotinidase deficiency
+1246,ulcerative colitis
+1247,Burkitt lymphoma
+1248,holocarboxylase synthetase deficiency
+1249,Peyronie's disease
+1250,measles
+1251,nervous system disease
+1252,Kaposi's sarcoma
+1253,vasculitis
+1254,Hodgkin's granuloma
+1255,eating disorder
+1256,lymphosarcoma
+1257,perinatal necrotizing enterocolitis
+1258,anorexia nervosa
+1259,mycosis fungoides
+1260,myeloid leukemia
+1261,neurofibromatosis
+1262,vascular dementia
+1263,megakaryocytic leukemia
+1264,intermediate coronary syndrome
+1265,acute monocytic leukemia
+1266,neuromyelitis optica
+1267,psoriasis
+1268,mitochondrial encephalomyopathy
+1269,progressive myoclonus epilepsy
+1270,skin melanoma
+1271,autoimmune thrombocytopenic purpura
+1272,learning disability
+1273,atrophic gastritis
+1274,Wilson disease
+1275,diabetic retinopathy
+1276,sideroblastic anemia
+1277,polycystic kidney disease
+1278,narcolepsy
+1279,polycythemia vera
+1280,sudden infant death syndrome
+1281,psoriatic arthritis
+1282,Zellweger syndrome
+1283,peroxisomal disease
+1284,leishmaniasis
+1285,systemic lupus erythematosus
+1286,macroglobulinemia
+1287,parapsoriasis
+1288,cutaneous leishmaniasis
+1289,acute myeloid leukemia
+1290,amyloidosis
+1291,peliosis hepatis
+1292,visceral leishmaniasis
+1293,mucocutaneous leishmaniasis
+1294,achalasia
+1295,Wiskott-Aldrich syndrome
+1296,pemphigus
+1297,speech disorder
+1298,Barrett's esophagus
+1299,pityriasis rubra pilaris
+1300,erythromelalgia
+1301,Alagille syndrome
+1302,cerebral amyloid angiopathy
+1303,Pallister-Hall syndrome
+1304,acrocallosal syndrome
+1305,amino acid metabolic disorder
+1306,gastrointestinal stromal tumor
+1307,mast-cell leukemia
+1308,colorectal cancer
+1309,Waardenburg's syndrome
+1310,homocystinuria
+1311,cystinuria
+1312,glycine encephalopathy
+1313,maple syrup urine disease
+1314,alkaptonuria
+1315,ornithine carbamoyltransferase deficiency
+1316,citrullinemia
+1317,hyperlysinemia
+1318,tyrosinemia
+1319,hyperargininemia
+1320,hyperhomocysteinemia
+1321,carbamoyl phosphate synthetase I deficiency disease
+1322,phenylketonuria
+1323,ocular hypertension
+1324,cleft lip
+1325,language disorder
+1326,viral infectious disease
+1327,diabetes mellitus
+1328,type 2 diabetes mellitus
+1329,brain disease
+1330,hypopituitarism
+1331,diabetes insipidus
+1332,panhypopituitarism
+1333,intracranial hypertension
+1334,renal glycosuria
+1335,cholangitis
+1336,fatty liver disease
+1337,lipid storage disease
+1338,nail-patella syndrome
+1339,meningitis
+1340,pulmonary embolism
+1341,leukocyte disease
+1342,cannabis abuse
+1343,Laron syndrome
+1344,Lassa fever
+1345,multiple myeloma
+1346,vascular skin disease
+1347,adrenal gland disease
+1348,primary ciliary dyskinesia
+1349,bronchiectasis
+1350,dextrocardia
+1351,encephalitis
+1352,neurofibroma
+1353,Pelger-Huet anomaly
+1354,stomatitis
+1355,congenital nystagmus
+1356,senile cataract
+1357,proliferative vitreoretinopathy
+1358,diabetic neuropathy
+1359,type 1 diabetes mellitus
+1360,hemorrhoid
+1361,myocardial stunning
+1362,irritable bowel syndrome
+1363,polyarteritis nodosa
+1364,choroideremia
+1365,hyperopia
+1366,refractive error
+1367,alopecia areata
+1368,hereditary fructose intolerance syndrome
+1369,alopecia
+1370,galactosemia
+1371,mitral valve prolapse
+1372,muscular dystrophy
+1373,acute lymphocytic leukemia
+1374,B- and T-cell mixed leukemia
+1375,hypoplastic left heart syndrome
+1376,obesity
+1377,cocaine dependence
+1378,heroin dependence
+1379,eosinophilia-myalgia syndrome
+1380,eosinophilia
+1381,hypoglycemia
