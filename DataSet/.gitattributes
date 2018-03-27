@@ -1,0 +1,5 @@
+GeneOntology_Gene.txt filter=lfs diff=lfs merge=lfs -text
+DiseaseRelatedGene_GeneOntology.txt filter=lfs diff=lfs merge=lfs -text
+Pathway_Gene.txt filter=lfs diff=lfs merge=lfs -text
+DiseaseRelatedGene_Pathway.txt filter=lfs diff=lfs merge=lfs -text
+Disease_DiseaseRelatedGene.txt filter=lfs diff=lfs merge=lfs -text
