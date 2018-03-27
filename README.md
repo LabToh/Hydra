@@ -105,7 +105,7 @@ If you compute precision and recall enhancement which length of recommendation l
 
 
 ## Usage for Prediction
-Please type these commands.
+Please type these commands.   
 ***Please copy Disease_DiseaseRelatedGene.txt, DiseaseRelatedGene_Pathway.txt, and Pathway_Gene.txt from DataSet.***   
 ### Compile Option
 ```
