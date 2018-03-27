@@ -36,7 +36,10 @@ Please install these tools.
 
 ## Usage for Cross Validation
 Please type these commands.   
+
 ***Please change paths where is line 22-24 in eqHydraCrossValidation.cpp and qHydraCrossValidation.cpp***
+
+***Please copy Disease_DiseaseRelatedGene.txt, DiseaseGeneIndexForCrossValidation.txt, DiseaseRelatedGene_GeneOntology.txt, DiseaseRelatedGene_Pathway.txt, GeneOntology_Gene.txt and Pathway_Gene.txt from DataSet.***   
 
 ### Compile Option
 ***qHydra Compile Option***
@@ -103,7 +106,7 @@ If you compute precision and recall enhancement which length of recommendation l
 
 ## Usage for Prediction
 Please type these commands.
-
+***Please copy Disease_DiseaseRelatedGene.txt, DiseaseRelatedGene_Pathway.txt, and Pathway_Gene.txt from DataSet.***   
 ### Compile Option
 ```
 g++ -lafopencl eqHydraAllScore.cpp -O3 -std=c++11 -o AllScore
